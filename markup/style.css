@@ -1,0 +1,18 @@
+.apv-user-image {
+  width: 70px;
+  height: 70px;
+}
+.apv-card {
+    width: 100%;
+  }
+.apv-input {
+  width: 100%;
+}
+@media(min-width: 768px) {
+  .apv-card {
+    width: 50%;
+  }
+  .apv-input {
+    width: 50%;
+  }
+}
